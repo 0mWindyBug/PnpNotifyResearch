@@ -2,7 +2,7 @@
 #include <ntddk.h>
 #include <windef.h>
 
-// PnpDeviceClassList is actually an array of lists 
+// PnpDeviceClassList is actually an array of lists / hash table to be precise 
 // Callbacks registred for a particular interface class GUID are stored in an index based on a hash calculated from the GUID (hash table ish) 
 // Each entry in the list is of type 'DEVICE_CLASS_CALLBACK_ENTRY' (see definition below) 
 
