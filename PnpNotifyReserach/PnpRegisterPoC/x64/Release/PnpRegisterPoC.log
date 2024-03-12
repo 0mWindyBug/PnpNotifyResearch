@@ -1,0 +1,19 @@
+﻿  Building 'PnpRegisterPoC' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\PnpRegisterPoC.inf
+  Stamping [Version] section with DriverVer=03/12/2024,20.52.11.881
+C:\Users\dorge\source\repos\PnpNotifyReserach\PnpRegisterPoC\PnpRegisterPoC.inf(28-28): warning 2083: Section [standard.ntamd64] not referenced or used.
+  PnpRegisterPoC.vcxproj -> C:\Users\dorge\source\repos\PnpNotifyReserach\x64\Release\PnpRegisterPoC.sys
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\dorge\source\repos\PnpNotifyReserach\x64\Release\PnpRegisterPoC\pnpregisterpoc.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dorge\source\repos\PnpNotifyReserach\x64\Release\PnpRegisterPoC\pnpregisterpoc.cat
+  

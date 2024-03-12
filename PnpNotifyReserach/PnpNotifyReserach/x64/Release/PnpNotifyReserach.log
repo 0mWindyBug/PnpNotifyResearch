@@ -1,0 +1,25 @@
+﻿  Building 'PnpNotifyReserach' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Release\PnpNotifyReserach.inf
+  Stamping [Version] section with DriverVer=03/12/2024,20.52.11.880
+C:\Users\dorge\source\repos\PnpNotifyReserach\PnpNotifyReserach\PnpNotifyReserach.inf(29-29): warning 2083: Section [standard.ntamd64] not referenced or used.
+  main.c
+C:\Users\dorge\source\repos\PnpNotifyReserach\PnpNotifyReserach\main.c(58,1): warning C4047: 'initializing': 'PVOID' differs in levels of indirection from 'ULONG_PTR'
+C:\Users\dorge\source\repos\PnpNotifyReserach\PnpNotifyReserach\main.c(62,1): warning C4047: 'initializing': 'PVOID' differs in levels of indirection from 'ULONG_PTR'
+  PnpNotifyReserach.vcxproj -> C:\Users\dorge\source\repos\PnpNotifyReserach\x64\Release\PnpNotifyReserach.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dorge\source\repos\PnpNotifyReserach\x64\Release\PnpNotifyReserach.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\dorge\source\repos\PnpNotifyReserach\x64\Release\PnpNotifyReserach\pnpnotifyreserach.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\dorge\source\repos\PnpNotifyReserach\x64\Release\PnpNotifyReserach\pnpnotifyreserach.cat
+  
